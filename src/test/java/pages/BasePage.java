@@ -12,7 +12,13 @@ public class BasePage {
 		     this.driver=driver;
 		     PageFactory.initElements(driver,this);
 		      // new code added
+		     // latur
+		     
 		  }
+	   
+	   public void test1() {
+		   
+	   }
 	   	   
 }
 

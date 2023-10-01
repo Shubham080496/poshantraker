@@ -3,11 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Master.WholeForm">
+      <class name="Testcases.TC_002_LoginTest">
         <methods>
-          <include name="WholeForm"/>
+          <include name="test_login"/>
+          <include name="setup"/>
         </methods>
-      </class> <!-- Master.WholeForm -->
+      </class> <!-- Testcases.TC_002_LoginTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

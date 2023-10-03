@@ -13,6 +13,7 @@ public class BasePage {
 		     PageFactory.initElements(driver,this);
 		      // new code added
 		     // latur
+		     // pune
 		     
 		  }
 	   
